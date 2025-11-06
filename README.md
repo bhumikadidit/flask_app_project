@@ -97,7 +97,7 @@ python -m flask --app board run --port 8000 --debug
 ## Documentation
 
 For detailed explanations and step-by-step instructions, check out the full tutorial:
-[**Build a Scalable Flask Web Project From Scratch**](https://realpython.com/flask-project-setup/)
+[**Build a Scalable Flask Web Project From Scratch**](https://realpython.com/flask-project/)
 
 ## Next Steps
 
